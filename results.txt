@@ -1,0 +1,14 @@
+
+--- 2 ---
+687 cars recorded
+--- 3 ---
+603 vehicles passed the exit point before 09:00
+--- 4 ---
+12 vehicles passed the entry point in hour, minute : 8, 20
+The traffic intensity in hour, minute is 2.3
+--- 5 ---
+The fastest vehicle is OKL564
+It has an average speed of 137.99977000038388
+It has overtaken 33
+--- 6 ---
+11.935953050851822% of the vehicles were speeding.
